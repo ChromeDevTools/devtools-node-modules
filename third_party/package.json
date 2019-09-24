@@ -19,6 +19,7 @@
     "karma-typescript": "4.1.1",
     "mocha": "6.2.0",
     "escodegen": "1.12.0",
+    "esprima": "git+https://git@github.com/jquery/esprima.git#fe13460e646a0adc3c434ca8c478264ca2e78cec",
     "typescript": "3.5.3"
   }
 }
